@@ -1,0 +1,39 @@
+
+
+body{
+  text-align: center;
+}
+
+.box{
+  border: 5px solid black;
+  width: 80px;
+  height: 80px;
+  border-radius: 23%;
+  margin: 20px 20px 20px 20px;
+  text-align:center;
+}
+
+.box-container {
+display: flex;
+justify-content:center ;
+}
+
+.green{
+  background-color: rgb(163, 255, 180);
+}
+.red{
+  background-color: rgb(255, 156, 156);
+}
+.yellow{
+  background-color: rgb(246, 255, 163);
+}
+.purple{
+  background-color: rgb(186, 169, 255);
+}
+.white{
+  background-color: rgb(255, 255, 255);
+}
+
+.darkgreen{
+  background-color: rgb(58, 207, 44);
+}
